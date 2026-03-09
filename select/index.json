@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "マネキン",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:14:22.283175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マネキン",
+      "artist": "The Summer Set",
+      "has_synced": true,
+      "path": "select/01_マネキン_The_Summer_Set.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マネキン",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_マネキン_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マネキン",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/03_マネキン_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マネキン -Live at Ebisu The Garden Hall-",
+      "artist": "FLOWER FLOWER",
+      "has_synced": false,
+      "path": "select/04_マネキン_-Live_at_Ebisu_The_Garden_Hall-_FLOWER_FLOWER.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マネキン",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/05_マネキン_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マネキン",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/06_マネキン_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マネキン",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_マネキン_DECO_27.txt"
+    }
+  ]
+}
